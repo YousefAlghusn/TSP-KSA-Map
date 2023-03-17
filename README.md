@@ -8,6 +8,7 @@ state and difficult to solve.
 
 The used algorithms are: Hill CLimbing, Simulated Annealing, and Genetic Algorithm.
 
+# Sample run
 
 ![image](https://user-images.githubusercontent.com/121561626/225916126-390a0f9a-1443-4fd3-9e3e-a636b4046af8.png)
 

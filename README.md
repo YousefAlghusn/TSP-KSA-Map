@@ -6,7 +6,7 @@ Given a set of cities and the distance between every pair of cities, the problem
 possible route that visits every city exactly once and returns to the starting point. This problem is easy to 
 state and difficult to solve.
 
-The used algorithms are: Hill CLimbing, Simulated Annealing, and Genetic Algorithm.
+The used algorithms are: Hill Climbing, Simulated Annealing, and Genetic Algorithm.
 
 # Sample run
 
